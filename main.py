@@ -1,3 +1,5 @@
+# read serial port
+
 from PyQt5 import QtCore, QtWidgets, QtSerialPort
 
 class Widget(QtWidgets.QWidget):
